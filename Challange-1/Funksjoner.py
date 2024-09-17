@@ -5,16 +5,11 @@ Lag en funksjon som konverterer grader til radianer.
 """
 
 
-
-
-
 """
 Oppg.2 **
 Lag en funksjon som regner ut arealet av en trapes.
 Funksjonen skal ha inn parameterene a,b,h. h er høyden, a og b er lengdene på sidekantene
 """
-
-
 
 
 
