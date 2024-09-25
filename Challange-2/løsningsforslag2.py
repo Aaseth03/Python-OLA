@@ -53,4 +53,4 @@ while (sum2 < 8_000):
     N2 += 1
     sum2 += 2**N2
 
-print(f"For at summen skal overstige 8.000 må N være høyere enn {N2}. N = {N2} gir sum = {sum2}")
+print(f"For at summen skal overstige 8.000 må N være høyere enn {N2-1}. N = {N2} gir sum = {sum2}")
