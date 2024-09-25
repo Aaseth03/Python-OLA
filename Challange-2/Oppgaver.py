@@ -11,6 +11,12 @@ import register
 print(register.Klasseliste)
 
 
+
+"""
+Løkker er ikke en del av pensum før uke 40. Prøv alikevel å lese deg opp på strukturen til ei løkke og se om oppgaven lar seg løses!
+Skjekk Loops.py for hint til løkke strukturen.
+"""
+
 """
 oppg.2
 
