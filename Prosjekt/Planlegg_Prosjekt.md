@@ -30,3 +30,16 @@ Dette vil ikke bli vurdert og vil ikke påvirke karakter i faget på noe vis, de
 
 - Lag en designplan for prosjektet.
     Del opp prosjektet i mindre biter slik at det blir lettere å jobbe med.
+
+
+# Eksempel på Spec/Req
+Prosjekt : Binær til Decimal Konverterer
+Req:   - Konvertere alle type 32-bit binære tall til decimaltall.
+       - Effektiv kode som ikke senker systemet.
+       - Mudulær kode som enkelt kan brukes i større system.
+Spec: 
+      - 32-bit input
+      - Bruker kan velge om input er:
+        - Unsigned
+        - Signed
+        - 2´er komplimentært
