@@ -1,4 +1,4 @@
-#Planlegg ditt Python Prosjekt!
+# Planlegg ditt Python Prosjekt!
 
 Den beste måten å øve til eksamen på er bare å kode mye, derfor skal dere nå finne et prosjekt å jobbe med fram mot eksamen.
 Dette vil ikke bli vurdert og vil ikke påvirke karakter i faget på noe vis, dette er kun en øvelse slik at kodeferdighetene blir mer flytende.
